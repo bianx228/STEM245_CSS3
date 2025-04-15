@@ -43,7 +43,7 @@
                     padding: 10px;
                     height: 175px;
                     border: 0px;
-                    color: yellow;
+                    color: yellow; /* banner color changed to yellow */
                     background-color: #c2c1c1;
                     border-radius: 8px;
             }
@@ -204,7 +204,7 @@
             #footer {
                 padding: 10px;
                 height: 20px;
-                color: yellow;
+                color: yellow; /* footer color changed to yellow */
                 font-size: 12px;
                 background: #c2c1c1;
                 clear: both;
